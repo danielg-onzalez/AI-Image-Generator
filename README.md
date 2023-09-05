@@ -7,7 +7,7 @@ User Interface Design:
 To make the tool user-friendly, I designed a user interface that allows users to input text prompts effortlessly.
 
 API Interaction:
-Leveraging OpenAI's API, I developed a Python script that communicates with the GPT-3.5 model. This code sends user prompts to the API and receives image responses in return.
+Leveraging OpenAI's API, I developed a Python script that communicates with the DALL·E model. This code sends user prompts to the API and receives image responses in return.
 
 Timestamped File Naming:
 To ensure each generated image remains distinct, I incorporated an automated file-naming system that appends timestamps to the saved image files.
