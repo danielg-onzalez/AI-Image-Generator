@@ -1,6 +1,3 @@
-# AI-Image-Generator
-The AI Image Generator uses a cutting-edge AI system and generates high-quality images from textual descriptions. The AI system integrates OpenAI's API to continually refine its understanding of the input text and produce images that can be comparable to those created by graphic designers.
-
 To develop the AI Image Generator, I progressed through a process that combined innovative technologies and creative problem-solving. The process involved several key steps:
 
 OpenAI Integration:
